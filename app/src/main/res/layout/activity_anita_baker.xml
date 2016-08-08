@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.android.faveoftheday.AnitaBaker">
+
+        <ImageView
+            android:id="@+id/picture"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="6dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/image" />
+
+        <Button
+            android:id="@+id/album1"
+            style="@style/AlbumListStyle"
+            android:layout_below="@+id/picture"
+            android:text="@string/The_Songstress" />
+
+        <Button
+            android:id="@+id/album2"
+            style="@style/AlbumListStyle"
+            android:layout_below="@+id/album1"
+            android:text="@string/Rapture" />
+
+        <Button
+            android:id="@+id/album3"
+            style="@style/AlbumListStyle"
+            android:layout_below="@id/album2"
+            android:text="@string/Giving_You_The_Best_That_Ive_Got" />
+
+        <Button
+            android:id="@+id/album4"
+            style="@style/AlbumListStyle"
+            android:layout_below="@+id/album3"
+            android:text="@string/Compositions" />
+
+        <Button
+            android:id="@+id/album5"
+            style="@style/AlbumListStyle"
+            android:layout_below="@+id/album4"
+            android:text="@string/Rhythm_of_Love" />
+
+        <Button
+            android:id="@+id/album6"
+            style="@style/AlbumListStyle"
+            android:layout_below="@+id/album5"
+            android:text="@string/My_Everything" />
+
+        <Button
+            android:id="@+id/album7"
+            style="@style/AlbumListStyle"
+            android:layout_below="@+id/album6"
+            android:text="@string/A_Night_of_Rapture_Live" />
+
+        <Button
+            android:id="@+id/album8"
+            style="@style/AlbumListStyle"
+            android:layout_below="@+id/album7"
+            android:text="@string/Christmas_Fantasy" />
+
+    </RelativeLayout>
+</ScrollView>

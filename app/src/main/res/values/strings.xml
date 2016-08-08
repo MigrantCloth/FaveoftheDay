@@ -1,0 +1,58 @@
+<resources>
+    <!-- Name of the App -->
+    <string name="app_name">Fave of the Day</string>
+    <!-- Category name for Anita Baker [CHAR LIMIT=20] -->
+    <string name="category_Anita_Baker">Anita Baker</string>
+
+    <!-- Category name for the vocabulary words for Boyz II Men [CHAR LIMIT=20] -->
+    <string name="category_Boyz_II_Men">Boyz II Men</string>
+
+    <!-- Category name for the vocabulary words for OutKast [CHAR LIMIT=20] -->
+    <string name="category_OutKast">OutKast</string>
+
+    <!-- Category name for the vocabulary words for Rakim [CHAR LIMIT=20] -->
+    <string name="category_Rakim">Rakim</string>
+
+    <!--Anita Baker discography-->
+
+    <string name="The_Songstress">The Songstress</string>
+    <string name="Rapture">Rapture</string>
+    <string name="Giving_You_The_Best_That_Ive_Got">Giving You The Best That I\'ve Got</string>
+    <string name="Compositions">Compositions</string>
+    <string name="Rhythm_of_Love">Rhythm of Love</string>
+    <string name="My_Everything">My Everything</string>
+    <string name="A_Night_of_Rapture_Live">A Night of Rapture Live</string>
+    <string name="Christmas_Fantasy">Christmas Fantasy</string>
+
+    <!--Boyz II Men discography-->
+
+    <string name="CooleyHighHarmony">CooleyHighHarmony</string>
+    <string name="Christmas_Interpretations">Christmas Interpretations</string>
+    <string name="II">II</string>
+    <string name="The_Remix_Collection">The Remix Collection</string>
+    <string name="Nathan_Michael_Shawn_Wanya">Nathan, Michael, Shawn, Wanya</string>
+    <string name="Full_Circle">Full Circle</string>
+    <string name="Throwback">Throwback</string>
+    <string name="Winter_Reflections">Winter / Reflections</string>
+
+    <!--OutKast discography-->
+
+    <string name="Southernplayalisticadillacmuzik">Southernplayalisticadillacmuzik</string>
+    <string name="ATLiens">ATLiens</string>
+    <string name="Aquemini">Aquemini</string>
+    <string name="Stankonia">Stankonia</string>
+    <string name="Speakerboxxx_The_Love_Below">Speakerboxxx / The Love Below</string>
+    <string name="Idlewild">Idlewild</string>
+
+    <!--Rakim discography-->
+
+    <string name="Paid_In_Full">Paid In Full</string>
+    <string name="Follow_The_Leader">Follow The Leader</string>
+    <string name="Let_The_Rhythm_Hit_Em">Let The Rhythm Hit \'Em</string>
+    <string name="Dont_Sweat_The_Technique">Don\'t Sweat The Technique</string>
+    <string name="The_18th_Letter">The 18th Letter</string>
+    <string name="The_Master_Funk_Master_Flex_Sampler">The Master (Funk Master Flex Sampler)</string>
+    <string name="The_Master">The Master</string>
+    <string name="The_Seventh_Seal">The Seventh Seal</string>
+
+</resources>

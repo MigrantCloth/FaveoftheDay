@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#3F51B5</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#1A237E</color>
+
+    <!-- Background color for app -->
+    <color name="main_background">#C91B26</color>
+
+    <!-- Background color for the numbers category -->
+    <color name="category_AnitaBaker">#C91B26</color>
+
+    <!-- Background color for the family members category -->
+    <color name="category_BoyzIIMen">#9C0F5F</color>
+
+    <!-- Background color for the colors category -->
+    <color name="category_OutKast">#60047A</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_Rakim">#160A47</color>
+</resources>
