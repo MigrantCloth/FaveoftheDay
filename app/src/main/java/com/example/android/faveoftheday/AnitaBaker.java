@@ -21,8 +21,9 @@ public class AnitaBaker extends AppCompatActivity {
                 startActivity(TheSongstressIntent);
             }
         });
+            //Will use MediaPlayer class to start music with click of album button
 
-            // An ArrayList for storing music tracks for 'The Songstress'
+            // Will use and ArrayList for storing music tracks for 'The Songstress'
              private ArrayList<Track> tracks;
 
      */
