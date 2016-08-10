@@ -25,6 +25,13 @@
             android:layout_below="@+id/picture"
             android:text="@string/The_Songstress" />
 
+        <!--Generate another activity with a list view for each album
+
+            <ListView
+            android:layout_width="match_parent"
+            android:layout_height="">match_parent</ListView>
+
+        -->
         <Button
             android:id="@+id/album2"
             style="@style/AlbumListStyle"
