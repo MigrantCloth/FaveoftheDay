@@ -20,4 +20,8 @@
 
     <!-- Background color for the phrases category -->
     <color name="category_Rakim">#160A47</color>
+
+    <!-- Explanation text color -->
+
+    <color name="Explanation">#FFFFFF</color>
 </resources>

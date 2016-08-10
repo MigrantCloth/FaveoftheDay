@@ -8,7 +8,7 @@
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:context="com.example.android.faveoftheday.AnitaBaker">
+        tools:context="com.example.android.faveoftheday.BoyzIIMen">
 
         <ImageView
             android:id="@+id/picture"
@@ -18,6 +18,14 @@
             android:layout_marginBottom="6dp"
             android:scaleType="centerCrop"
             android:src="@drawable/boyziimen" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Explanation"
+            android:textColor="@color/Explanation"
+            android:textStyle="bold"
+            android:textAllCaps="true"/>
 
 
         <Button
@@ -68,6 +76,10 @@
             style="@style/AlbumListStyle"
             android:layout_below="@+id/album7"
             android:text="@string/Winter_Reflections" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""/>
 
     </RelativeLayout>
 </ScrollView>

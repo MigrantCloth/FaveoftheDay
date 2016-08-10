@@ -55,4 +55,7 @@
     <string name="The_Master">The Master</string>
     <string name="The_Seventh_Seal">The Seventh Seal</string>
 
+    <!--Activity Explanation-->
+    <string name="Explanation">"My app will randomize your list of albums and provide some favorites of the day. This activity brings you to the discography of a selected artist for today. When you click which album you'd like to hear, the album will play. I will need to create a ListView to get all the songs to display on the screen. They will play immediately. I have to use the MediaPlay class and start() to achieve this."</string>
+
 </resources>

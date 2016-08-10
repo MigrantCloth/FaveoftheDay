@@ -1,3 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\uzuri17\AndroidStudioProjects\FaveoftheDay\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\uzuri17\AndroidStudioProjects\FaveoftheDay\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_b15c3cc36b4bb9c733fa56415cc7b8876d429138.jar" />
+    </item>
+    <item
+        jar="C:\Users\uzuri17\AndroidStudioProjects\FaveoftheDay\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\uzuri17\AndroidStudioProjects\FaveoftheDay\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_802927f9af8d333618ec6df9ce2f250bd5b6479a.jar" />
+    </item>
+    <item
+        jar="C:\Users\uzuri17\AndroidStudioProjects\FaveoftheDay\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\uzuri17\AndroidStudioProjects\FaveoftheDay\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_875b226991ba9bbf504cea0500212bd092fdb86e.jar" />
+    </item>
+    <item
+        jar="C:\Users\uzuri17\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\uzuri17\AndroidStudioProjects\FaveoftheDay\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_bff9293f13824c495798ed768eaf04ee3a897ef0.jar" />
+    </item>
+    <item
+        jar="C:\Users\uzuri17\AndroidStudioProjects\FaveoftheDay\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\uzuri17\AndroidStudioProjects\FaveoftheDay\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_a4ee59049c45987ade874d136e96f2a67035e4a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\uzuri17\AndroidStudioProjects\FaveoftheDay\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0db722a51079021cd1f692beb4ae0eb5a893f342">
+        <dex dex="C:\Users\uzuri17\AndroidStudioProjects\FaveoftheDay\app\build\intermediates\pre-dexed\debug\instant-run_d0e4664900eb64242727e17c74d0254af7ae802f.jar" />
+    </item>
+    <item
+        jar="C:\Users\uzuri17\AndroidStudioProjects\FaveoftheDay\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="04396f55e3676bf4454b43229e8808ae4cc3629f">
+        <dex dex="C:\Users\uzuri17\AndroidStudioProjects\FaveoftheDay\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c93454d115a3db8bb03c10daea3d59f4f7b33d35.jar" />
+    </item>
+    <item
+        jar="C:\Users\uzuri17\AndroidStudioProjects\FaveoftheDay\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\uzuri17\AndroidStudioProjects\FaveoftheDay\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_9dd684ed97c6c0e86a50a48e80c41e00742ffedf.jar" />
+    </item>
+
+</items>

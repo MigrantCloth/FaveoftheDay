@@ -8,7 +8,7 @@
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context="com.example.android.faveoftheday.AnitaBaker">
+        tools:context="com.example.android.faveoftheday.Rakim">
 
         <ImageView
             android:id="@+id/picture"
@@ -19,13 +19,20 @@
             android:scaleType="centerCrop"
             android:src="@drawable/rakim" />
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Explanation"
+            android:textColor="@color/Explanation"
+            android:textStyle="bold"
+            android:textAllCaps="true"/>
+
 
         <Button
             android:id="@+id/album1"
             style="@style/AlbumListStyle"
             android:layout_below="@+id/picture"
             android:text="@string/Paid_In_Full" />
-
 
         <Button
             android:id="@+id/album2"

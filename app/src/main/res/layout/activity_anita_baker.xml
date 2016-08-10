@@ -19,19 +19,20 @@
             android:scaleType="centerCrop"
             android:src="@drawable/image" />
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Explanation"
+            android:textColor="@color/Explanation"
+            android:textStyle="bold"
+            android:textAllCaps="true"/>
+
         <Button
             android:id="@+id/album1"
             style="@style/AlbumListStyle"
             android:layout_below="@+id/picture"
             android:text="@string/The_Songstress" />
 
-        <!--Generate another activity with a list view for each album
-
-            <ListView
-            android:layout_width="match_parent"
-            android:layout_height="">match_parent</ListView>
-
-        -->
         <Button
             android:id="@+id/album2"
             style="@style/AlbumListStyle"
